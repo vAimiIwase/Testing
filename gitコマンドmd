@@ -3,3 +3,6 @@ git branch [ローカルブランチ名]
 
 ## ローカルで作ったブランチをリモートへ上げる
 git branch -u origin [ローカルブランチ名]
+
+## 紐付いているissueをクローズできる状態
+git branch -u origin [ローカルブランチ名]
